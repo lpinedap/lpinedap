@@ -1,4 +1,4 @@
-###¡¡Saludos!👋
+### ¡Saludos!👋
 
 Soy Leonardo Pineda, un entusiasta del desarrollo de software con un enfoque apasionado en la creación de aplicaciones innovadoras. Mi especialidad radica en la programación en Java y Spring Boot, herramientas con las que he materializado soluciones sólidas y eficientes para diversos desafíos.
 
